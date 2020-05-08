@@ -6,4 +6,7 @@ Has among other validations, this 4
         $( "#name").shouldHave(Condition.value("Nuno"));
         assert(state).equals("Texas");
         $( "#backpack").shouldBe(selected);
-        $(By.name("newsletter")).shouldHave(value("yes"));
+        $(By.name("newsletter")).shouldHave(value("yes")); 
+        
+        
+        
