@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="731ee66e-9499-4769-89b7-a6d9558eea5d" name="Default Changelist" comment="" />
+    <list default="true" id="731ee66e-9499-4769-89b7-a6d9558eea5d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/selenium/SeleniumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/selenium/SeleniumTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/selenium/SeleniumTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/selenium/SeleniumTest.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +22,15 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="NuRod &lt;naaralves@gmail.com&gt;" />
+        <option value="nurod &lt;naaralves@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -31,11 +45,13 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="B:/git/Tutorial/linkedin_Aut_Frameworks/java" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
   </component>
   <component name="RunManager" selected="JUnit.SeleniumTest.automationTest">
@@ -88,34 +104,58 @@
       <option name="presentableId" value="Default" />
       <updated>1588077290270</updated>
     </task>
+    <task id="LOCAL-00001" summary="adding comment">
+      <created>1588901326170</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1588901326170</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="adding comment" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding comment" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="2507" y="-461" key="#Project_Structure" timestamp="1588902795861">
+      <screen x="1600" y="-663" width="1920" height="1080" />
+    </state>
+    <state x="2507" y="-461" key="#Project_Structure/0.0.1600.900/1600.-663.1920.1080@1600.-663.1920.1080" timestamp="1588902795861" />
+    <state x="2660" y="-525" width="726" height="847" key="CommitChangelistDialog2" timestamp="1588907705366">
+      <screen x="1600" y="-663" width="1920" height="1080" />
+    </state>
+    <state x="2660" y="-525" width="726" height="847" key="CommitChangelistDialog2/0.0.1600.900/1600.-663.1920.1080@1600.-663.1920.1080" timestamp="1588907705366" />
     <state x="852" y="240" key="FileChooserDialogImpl" timestamp="1588874134113">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
     <state x="852" y="240" key="FileChooserDialogImpl/0.0.1600.900/1600.-663.1920.1080@0.0.1600.900" timestamp="1588874134113" />
     <state x="2619" y="-378" key="FileChooserDialogImpl/0.0.1600.900/1600.-663.1920.1080@1600.-663.1920.1080" timestamp="1588773394034" />
-    <state width="1257" height="201" key="GridCell.Tab.0.bottom" timestamp="1588082799437">
+    <state width="1411" height="252" key="GridCell.Tab.0.bottom" timestamp="1588907573926">
       <screen x="1600" y="-663" width="1920" height="1080" />
     </state>
-    <state width="1257" height="201" key="GridCell.Tab.0.bottom/0.0.1600.900/1600.-663.1920.1080@1600.-663.1920.1080" timestamp="1588082799437" />
-    <state width="1257" height="201" key="GridCell.Tab.0.center" timestamp="1588082799437">
+    <state width="1411" height="252" key="GridCell.Tab.0.bottom/0.0.1600.900/1600.-663.1920.1080@1600.-663.1920.1080" timestamp="1588907573926" />
+    <state width="1411" height="252" key="GridCell.Tab.0.center" timestamp="1588907573926">
       <screen x="1600" y="-663" width="1920" height="1080" />
     </state>
-    <state width="1257" height="201" key="GridCell.Tab.0.center/0.0.1600.900/1600.-663.1920.1080@1600.-663.1920.1080" timestamp="1588082799437" />
-    <state width="1257" height="201" key="GridCell.Tab.0.left" timestamp="1588082799436">
+    <state width="1411" height="252" key="GridCell.Tab.0.center/0.0.1600.900/1600.-663.1920.1080@1600.-663.1920.1080" timestamp="1588907573926" />
+    <state width="1411" height="252" key="GridCell.Tab.0.left" timestamp="1588907573926">
       <screen x="1600" y="-663" width="1920" height="1080" />
     </state>
-    <state width="1257" height="201" key="GridCell.Tab.0.left/0.0.1600.900/1600.-663.1920.1080@1600.-663.1920.1080" timestamp="1588082799436" />
-    <state width="1257" height="201" key="GridCell.Tab.0.right" timestamp="1588082799437">
+    <state width="1411" height="252" key="GridCell.Tab.0.left/0.0.1600.900/1600.-663.1920.1080@1600.-663.1920.1080" timestamp="1588907573926" />
+    <state width="1411" height="252" key="GridCell.Tab.0.right" timestamp="1588907573926">
       <screen x="1600" y="-663" width="1920" height="1080" />
     </state>
-    <state width="1257" height="201" key="GridCell.Tab.0.right/0.0.1600.900/1600.-663.1920.1080@1600.-663.1920.1080" timestamp="1588082799437" />
+    <state width="1411" height="252" key="GridCell.Tab.0.right/0.0.1600.900/1600.-663.1920.1080@1600.-663.1920.1080" timestamp="1588907573926" />
     <state x="1613" y="-481" key="SettingsEditor" timestamp="1588080937774">
       <screen x="1600" y="-663" width="1920" height="1080" />
     </state>
     <state x="1613" y="-481" key="SettingsEditor/0.0.1600.900/1600.-663.1920.1080@1600.-663.1920.1080" timestamp="1588080937774" />
+    <state x="2632" y="-387" key="Vcs.Push.Dialog.v2" timestamp="1588907712925">
+      <screen x="1600" y="-663" width="1920" height="1080" />
+    </state>
+    <state x="2632" y="-387" key="Vcs.Push.Dialog.v2/0.0.1600.900/1600.-663.1920.1080@1600.-663.1920.1080" timestamp="1588907712925" />
     <state x="1815" y="-299" key="com.intellij.ide.util.TipDialog" timestamp="1588767080645">
       <screen x="1600" y="-663" width="1920" height="1080" />
     </state>
